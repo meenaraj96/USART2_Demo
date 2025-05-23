@@ -1,0 +1,10 @@
+../Driver/Src/stm32f411xx_usart_driver.c:13:6:USART_PeripheralClockControl	16	static
+../Driver/Src/stm32f411xx_usart_driver.c:83:10:RCC_GetPCLK2Value	24	static
+../Driver/Src/stm32f411xx_usart_driver.c:130:6:USART_Init	24	static
+../Driver/Src/stm32f411xx_usart_driver.c:211:6:USART_DeInit	16	static
+../Driver/Src/stm32f411xx_usart_driver.c:218:6:USART_SendData	32	static
+../Driver/Src/stm32f411xx_usart_driver.c:264:6:USART_ReceiveData	24	static
+../Driver/Src/stm32f411xx_usart_driver.c:271:6:USART_PeripheralControl	16	static
+../Driver/Src/stm32f411xx_usart_driver.c:283:9:USART_GetFlagStatus	16	static
+../Driver/Src/stm32f411xx_usart_driver.c:293:6:USART_ClearFlag	16	static
+../Driver/Src/stm32f411xx_usart_driver.c:298:6:USART_SetBaudRate	40	static

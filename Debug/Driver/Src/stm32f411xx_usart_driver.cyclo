@@ -1,0 +1,10 @@
+stm32f411xx_usart_driver.c:13:6:USART_PeripheralClockControl	16
+stm32f411xx_usart_driver.c:83:10:RCC_GetPCLK2Value	6
+stm32f411xx_usart_driver.c:130:6:USART_Init	9
+stm32f411xx_usart_driver.c:211:6:USART_DeInit	1
+stm32f411xx_usart_driver.c:218:6:USART_SendData	6
+stm32f411xx_usart_driver.c:264:6:USART_ReceiveData	1
+stm32f411xx_usart_driver.c:271:6:USART_PeripheralControl	2
+stm32f411xx_usart_driver.c:283:9:USART_GetFlagStatus	2
+stm32f411xx_usart_driver.c:293:6:USART_ClearFlag	1
+stm32f411xx_usart_driver.c:298:6:USART_SetBaudRate	5
