@@ -1,2 +1,2 @@
 # USART2_Demo
-Transmit Data and Receive Data
+Transmit Data and Receive Data using USART
